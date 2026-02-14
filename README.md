@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/badge/-streamlit-9DBC7A.svg?logo=zerply&style=plastic">
 
 ## DEMO
-![DEMO video]("https://github.com/so-watabe/fortune_gatcha/raw/main/images/demo.gif")
+![DEMO](images/demo.gif)
 
 ## Features
 - 生年月日と気分から今日の運勢を占う
@@ -32,3 +32,5 @@
 
 ## License
 "Fortune Gatcha" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+[def]: "images/demo.gif"
