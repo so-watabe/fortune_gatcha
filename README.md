@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/badge/-streamlit-9DBC7A.svg?logo=zerply&style=plastic">
 
 ## DEMO
-[DEMO video]("https://github.com/so-watabe/fortune_gatcha/blob/main/images/demo.gif")
+![DEMO video]("https://github.com/so-watabe/fortune_gatcha/raw/main/images/demo.gif")
 
 ## Features
 - 生年月日と気分から今日の運勢を占う
